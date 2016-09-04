@@ -39,7 +39,7 @@ Follow me [![twitter](https://img.shields.io/twitter/follow/valorkin.svg?style=s
 ```bash
   npm install ng2-bootstrap --save
   # Install typings from NPM. Ambient typings will not help
-  typings install moment --save
+  typings install dt~moment --global --save
 ```
 - add some code
 ```html
